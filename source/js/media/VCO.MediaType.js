@@ -24,6 +24,12 @@ VCO.MediaType = function(m) {
 				cls: 		VCO.Media.Vimeo
 			},
 			{
+				type: 		"auvio",
+				name: 		"RTBF Auvio", 
+				match_str: 	"(www.)?(local.|itt.|uat.)?rtbf\.be\/(auvio\/embed\/media|embed\/m)",
+				cls: 		VCO.Media.Auvio
+			},
+			{
 				type: 		"dailymotion",
 				name: 		"DailyMotion", 
 				match_str: 	"(www.)?dailymotion\.com",

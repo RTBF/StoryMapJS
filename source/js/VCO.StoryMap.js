@@ -53,6 +53,7 @@
 	// @codekit-prepend "media/VCO.Media.js";
 
 // MEDIA TYPES
+	// @codekit-prepend "media/types/VCO.Media.Auvio.js";
 	// @codekit-prepend "media/types/VCO.Media.Blockquote.js";
 	// @codekit-prepend "media/types/VCO.Media.Flickr.js";
 	// @codekit-prepend "media/types/VCO.Media.Instagram.js";
